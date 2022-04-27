@@ -1,0 +1,1 @@
+0re 1rest 3restart 0ri 1rig 3right 0lef 1left 3left 0do 1dow 3down 0dr 1dro 3drop 0levelu 1levelu 3levelup 0leveld 1leveldo 3leveldown
